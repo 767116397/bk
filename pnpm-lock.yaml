@@ -5452,7 +5452,7 @@ packages:
       '@mdit/plugin-img-lazyload': 0.3.0
       '@mdit/plugin-img-mark': 0.3.0
       '@mdit/plugin-img-size': 0.3.0
-      '@mdit/plugin-': 0.3.0
+      '@mdit/plugin-include': 0.3.0
       '@mdit/plugin-katex': 0.3.0
       '@mdit/plugin-mark': 0.3.0
       '@mdit/plugin-mathjax': 0.3.0

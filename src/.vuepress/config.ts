@@ -4,7 +4,7 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/bk/",
 
   locales: {
     // "/": {
